@@ -13,5 +13,11 @@ yum remove packagename
 #FOR REDHAT
 rpm install packagename
 
+#Manage services to start restart and stop
 sudo service servicename start/status/stop/restart/enable/disable
 sudo systemctl start/status/stop/restart/enable/disable servicename
+
+#Download using
+wget packageur
+
+curl fileurl
