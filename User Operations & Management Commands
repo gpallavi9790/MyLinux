@@ -1,0 +1,11 @@
+#list all users who are currently logged in
+who 
+
+#list all users who are logged in
+who -a
+
+#to get currest logged-in user name
+whoami
+
+
+
